@@ -21,6 +21,7 @@ namespace ConsoleApp.EmlakciApp
             evim.Semt = Console.ReadLine();
             Console.WriteLine("Kat No giriniz:");
             evim.Katno = int.Parse(Console.ReadLine());
+
             //Console.WriteLine(bilgi);
             //Console.ReadKey();
             //Personel mehmet = new Personel();
